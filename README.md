@@ -1,5 +1,5 @@
 # U-Scripts
-Just a handful of useful or utility scripts
+Just a handful of useful // utility scripts
 
 
 ## file_monitor.sh
